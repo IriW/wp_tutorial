@@ -13,6 +13,7 @@ Author URI: https://github.com/IriW/
 */
 
 //security to prevent direct access of php files.
+
 if ( ! defined( 'ABSPATH' )) {
     exit;
 }
