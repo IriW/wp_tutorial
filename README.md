@@ -1,2 +1,2 @@
 # wp_tutorial
-WordPress Plugin Creation for learning purposes
+WordPress Plugin Creation for learning purposes (PHP + MySQL)
